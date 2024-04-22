@@ -19,7 +19,6 @@ https://mooncang.my.id/api/vidio/ch.mpd?id=6686&code=champions-tv-2
 
 
 
-
 EL NUEVE
   
 #KODIPROP:inputstreamaddon=inputstream.adaptive
