@@ -193,6 +193,7 @@ T Y C SPORTS
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MN7HcLq/tycsports.png" ,279 TYC SPORTS (🇦🇷) fw
 https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_2A/TyCSport.mpd
 
+
 ESPN
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -256,6 +257,7 @@ FOX SPORTS 2
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="SPORTS FOX SPORTS",222 FOX SPORTS 2 (🇦🇷) fw
 https://edge-live17-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
+
 
 FOX SPORTS 3 
 
