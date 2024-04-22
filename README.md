@@ -12,7 +12,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.m
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22213055_ico.png?ts=1678991443" group-title="IPTV",Champions TV 2
+#EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/22213055_ico.png?ts=1678991443" group-title="IPTV",Champions TV 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=6686
 https://mooncang.my.id/api/vidio/ch.mpd?id=6686&code=champions-tv-2
